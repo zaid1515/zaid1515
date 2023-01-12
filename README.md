@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zaid1515
 - 👀 I’m interested in programming and web development          
-- 🌱 I’m currently learning C language
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
