@@ -1,10 +1,34 @@
-- 👋 Hi, I’m @zaid1515
-- 👀 I’m interested in programming and web development          
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there! 👋
 
-<!---
-zaid1515/zaid1515 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Ansari Mohd Abuzaid, a Web Developer specializing in the MERN Stack from [Mumbai]. Welcome to my GitHub profile!
+
+📊 Here are some of my GitHub statistics:
+
+- 🌱 I’m currently learning BackEnd Development.
+- 👯 I’m looking to collaborate on open-source projects
+- 📫 How to reach me: [mohdabuzaid15@gmail.com]
+- 😄 Pronouns: He/Him
+
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=zaid1515&show_icons=true)
+
+🛠️ My favorite programming languages and tools:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaid1515&layout=compact)](https://github.com/zaid1515)
+
+🚀 Check out some of my projects:
+
+- [Project 1](Link to Project 1)
+- [Project 2](Link to Project 2)
+- [Project 3](Link to Project 3)
+
+📫 How to reach me:
+
+- Email: [mohdabuzaid15@gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/mohd-abuzaid-ansari-122404220/]
+- Twitter: [https://twitter.com/MohdAbuzaidAns1]
+
+🌐 Check out my personal website: []
+
+Thanks for visiting! Feel free to explore my projects and repositories. If you have any questions or want to collaborate, don't hesitate to get in touch.
+
+Happy coding! 🚀
