@@ -6,7 +6,7 @@ I'm Ansari Mohd Abuzaid, a Web Developer specializing in the MERN Stack from [Mu
 
 - 🌱 I’m currently learning BackEnd Development.
 - 👯 I’m looking to collaborate on open-source projects
-- 📫 How to reach me: Mail(mailto:youremail@gmail.com)
+- 📫 How to reach me: [Mail](mailto:youremail@gmail.com)
 - 😄 Pronouns: He/Him
 
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=zaid1515&show_icons=true)
