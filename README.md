@@ -17,9 +17,9 @@ I'm Ansari Mohd Abuzaid, a Web Developer specializing in the MERN Stack from [Mu
 
 🚀 Check out some of my projects:
 
-- [Project 1](Link to Project 1)
-- [Project 2](Link to Project 2)
-- [Project 3](Link to Project 3)
+- [https://task-manager-ynhk.onrender.com/]
+- [https://basic-banking-system-zmo7.onrender.com/]
+- [https://zaid1515.github.io/NewsOn/]
 
 📫 How to reach me:
 
