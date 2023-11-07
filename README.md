@@ -6,7 +6,7 @@ I'm Ansari Mohd Abuzaid, a Web Developer specializing in the MERN Stack from [Mu
 
 - 🌱 I’m currently learning BackEnd Development.
 - 👯 I’m looking to collaborate on open-source projects
-- 📫 How to reach me: mohdabuzaid15@gmail.com
+- 📫 How to reach me: Mail(mailto:youremail@gmail.com)
 - 😄 Pronouns: He/Him
 
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=zaid1515&show_icons=true)
@@ -17,15 +17,15 @@ I'm Ansari Mohd Abuzaid, a Web Developer specializing in the MERN Stack from [Mu
 
 🚀 Check out some of my projects:
 
-- [https://task-manager-ynhk.onrender.com/]
-- [https://basic-banking-system-zmo7.onrender.com/]
-- [https://zaid1515.github.io/NewsOn/]
+- [Task Manager App](https://task-manager-ynhk.onrender.com)
+- [Banking System](https://basic-banking-system-zmo7.onrender.com)
+- [NewsOn](https://zaid1515.github.io/NewsOn/)
 
 📫 How to reach me:
 
-- Email: [mohdabuzaid15@gmail.com]
-- LinkedIn: [https://www.linkedin.com/in/mohd-abuzaid-ansari-122404220/]
-- Twitter: [https://twitter.com/MohdAbuzaidAns1]
+- [Email](mohdabuzaid15@gmail.com])
+- [LinkedIn](https://www.linkedin.com/in/mohd-abuzaid-ansari-122404220/)
+- [Twitter](https://twitter.com/MohdAbuzaidAns1)
 
 🌐 Check out my personal website: []
 
