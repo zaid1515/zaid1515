@@ -17,9 +17,9 @@ I'm Ansari Mohd Abuzaid, a Web Developer specializing in the MERN Stack from [Mu
 
 🚀 Check out some of my projects:
 
-- [10ANT (A rental platform)]([https://task-manager-ynhk.onrender.com](https://10-ant.vercel.app/))
-- [BOOKHUB]([https://basic-banking-system-zmo7.onrender.com](https://book-hub-rho.vercel.app/))
-- [AYURWAYDA]([https://zaid1515.github.io/NewsOn/](https://ayurwayda.vercel.app/))
+- [10ANT (A rental platform)](https://10-ant.vercel.app/)
+- [BOOKHUB](https://book-hub-rho.vercel.app/)
+- [AYURWAYDA](https://ayurwayda.vercel.app/)
 
 📫 How to reach me:
 
