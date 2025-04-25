@@ -4,9 +4,9 @@ I'm Ansari Mohd Abuzaid, a Web Developer specializing in the MERN Stack from [Mu
 
 📊 Here are some of my GitHub statistics:
 
-- 🌱 I’m currently learning BackEnd Development.
-- 👯 I’m looking to collaborate on open-source projects
-- 📫 How to reach me: [Mail](mailto:youremail@gmail.com)
+- 🌱 I’m currently looking Software Engineer Roles.
+- 👯 I’m looking to collaborate on open-source projects.
+- 📫 How to reach me: [Mail](mailto:mohdabuzaid15@gmail.com)
 - 😄 Pronouns: He/Him
 
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=zaid1515&show_icons=true)
@@ -17,9 +17,9 @@ I'm Ansari Mohd Abuzaid, a Web Developer specializing in the MERN Stack from [Mu
 
 🚀 Check out some of my projects:
 
-- [Task Manager App](https://task-manager-ynhk.onrender.com)
-- [Banking System](https://basic-banking-system-zmo7.onrender.com)
-- [NewsOn](https://zaid1515.github.io/NewsOn/)
+- [10ANT (A rental platform)]([https://task-manager-ynhk.onrender.com](https://10-ant.vercel.app/))
+- [BOOKHUB]([https://basic-banking-system-zmo7.onrender.com](https://book-hub-rho.vercel.app/))
+- [AYURWAYDA]([https://zaid1515.github.io/NewsOn/](https://ayurwayda.vercel.app/))
 
 📫 How to reach me:
 
@@ -27,7 +27,6 @@ I'm Ansari Mohd Abuzaid, a Web Developer specializing in the MERN Stack from [Mu
 - [LinkedIn](https://www.linkedin.com/in/mohd-abuzaid-ansari-122404220/)
 - [Twitter](https://twitter.com/MohdAbuzaidAns1)
 
-🌐 Check out my personal website: []
 
 Thanks for visiting! Feel free to explore my projects and repositories. If you have any questions or want to collaborate, don't hesitate to get in touch.
 
